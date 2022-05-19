@@ -1,5 +1,5 @@
 // Copyright 2022 MTHS
-// Author: Andrew Ten-Den
+// Author: Dahrio Francois
 // This program calculates the temperature in fahrenheit
 //    with user input
 
